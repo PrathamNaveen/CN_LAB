@@ -1,0 +1,6 @@
+*.deb
+/**/*.class
+/**/*.nam
+/**/*.tr
+/**/WinFile0
+/**/WinFile1
